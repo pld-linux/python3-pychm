@@ -2,7 +2,7 @@
 Summary:	PyCHM is a Python library to manipulate CHM files (Microsoft HTML Help)
 Name:		python3-%{module}
 Version:	0.8.6
-Release:	1
+Release:	2
 License:	GPL v2+
 Group:		Libraries/Python
 Source0:	https://files.pythonhosted.org/packages/source/p/pychm/%{module}-%{version}.tar.gz
